@@ -1,0 +1,22 @@
+{
+    "en": {
+        "welcomeMessage": "Hi🙋‍♂️, I'm Vansh !",
+        "normalMessage": "I am currently a Bachelor student at  G.H RAISONI COLLAGE.",
+        "endMessage":"Thank You.🫂",
+        "usersStatmessage":"Currently I am <age> year old."
+    },
+
+    "mr": {
+        "welcomeMessage": "नमस्कार🙏, मी वंश !",
+        "normalMessage": "मी सध्या  G.H RAISONI कॉलेजमध्ये Bachelor विद्यार्थी आहे.",
+        "endMessage":"धन्यवाद.🙏",
+        "usersStatmessage":"सध्या मी <age> वर्षांचा आहे."
+    },
+
+    "hi": {
+        "welcomeMessage":"नमस्ते🙏, मैं वंशहूं !",
+        "normalMessage":"मैं वर्तमान में  G.H RAISONI कॉलेज में स्नातक छात्र हूं।",
+        "endMessage":"धन्यवाद।🙏",
+        "usersStatmessage":"फिलहाल मैं <age> साल का हूं।"
+    }
+}
